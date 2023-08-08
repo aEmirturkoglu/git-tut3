@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 feature3and4a
+=======
+feature3and4
+>>>>>>> 0306347a2b5ffbe72b1c5714a0f0d49f75184217
